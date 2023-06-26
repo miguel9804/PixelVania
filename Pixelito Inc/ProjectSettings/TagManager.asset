@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piso
+  - Hielo
+  - Coin
+  - Gem
+  - Key
+  - Door
+  - Enemy
+  - Killzone
+  - Ataque
+  - Checkpoint
+  - Master
+  - Store
+  - BarraVida
+  - Boss
+  - Stop
+  - Treasure1
+  - Treasure2
+  - End
+  - Treasure3
+  - PuertaBoss
+  - CoinAssasin
+  - CoinElectric
+  - CoinPirata
+  - EnBajada
+  - vidaextra
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - OnewayPlatform
+  - Player
+  - Grounded
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
